@@ -1,27 +1,15 @@
-This repository contains a collection of basic Python exercises that I completed during a cybersecurity course. These exercises were designed to help me learn and practice fundamental Python skills.  The materials reflect my personal learning process and the skills I developed throughout the course.
+# Simple Python Exercises
 
+> **Archived / Archiviato.** First-week exercises from my cybersecurity course, kept as a record of where I started. Not maintained. Esercizi della prima settimana del corso, tenuti come traccia del punto di partenza. Non più mantenuto.
 
-Questa cartella contiene una raccolta di esercizi base in Python che ho completato durante un corso di cybersecurity. Gli esercizi sono stati progettati per aiutarmi a imparare e praticare le competenze fondamentali in Python. I materiali riflettono il mio percorso di apprendimento personale e le competenze che ho sviluppato durante il corso.
+Basic Python exercises (variables, input, conditionals, loops, simple functions) written during the *Junior System and CyberSecurity Analyst* course (Generation Italy), December 2024 - January 2025.
 
+Esercizi Python di base (variabili, input, condizioni, cicli, funzioni semplici) scritti durante il corso *Junior System and CyberSecurity Analyst* (Generation Italy), dicembre 2024 - gennaio 2025.
 
+Run any file with `python <file>.py` (Python 3.10+).
 
+Note: some exercises hardcode demo credentials or derive "secret codes" from personal data. That was part of the course exercise, not a pattern to reuse: real logins need salted password hashing (e.g. `hashlib.scrypt` or `argon2`).
 
-Copyright (c) 2025 Matteo Zordan
+## License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+[MIT](LICENSE) © 2025 Matteo Zordan · [traduzione italiana](LICENSE.it.md)
